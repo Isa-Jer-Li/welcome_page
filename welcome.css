@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300&family=Nunito+Sans&display=swap');
+
+* {
+	box-sizing: border-box;
+
+}
+
+html, body {
+	margin: 0;
+	padding: 0;
+}
+
+img {
+	max-width: 100%;
+}
+
+body {
+	font-family: 'PT Sans', sans-serif;
+	line-height: 1.6;
+	color: #fff;
+	background: #1A1E26;
+	font-size: 21px;
+}
+
+.text-center {
+	text-align: center;
+}
+
+p {
+	padding-left: 60px;
+}
+
+h1, h2, h3 {
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 900;
+}
+
+h1 {
+	font-size: 120px;
+	line-height: .8;
+}
+
+h2 {
+	font-size: 48px;
+	line-height: 1;
+}
+
+h2 span {
+	display: block;
+}
+
+h4, h5 {
+	font-size: 15px;
+
+}
+
+a {
+	color: #F98E04;
+}
+
+.split {
+	display: flex;
+}
+
+.col {
+	margin: 0 1em;
+}
+
+
+.accent-bg {
+	background-color: #3669C9;
+}
+
+.accent-bg .btn {
+	background-color: #fff;
+	color: #1A1E26;
+}
+
+.accent-bg .btn:hover {
+	background: #1A1E26;
+	color: #fff;
+}
+
+.extra-space {
+	margin-top: 10rem;
+}
+
