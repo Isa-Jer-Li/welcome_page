@@ -46,13 +46,20 @@ h2 {
 	line-height: 1;
 }
 
-h2 span {
+h2 {
 	display: block;
 }
 
-h4, h5 {
+h4{
 	font-size: 15px;
 
+}
+
+.sources {
+	text-align: left;
+	display: inline-flex;
+	font-size: 15px;
+	padding: 30px;
 }
 
 a {
